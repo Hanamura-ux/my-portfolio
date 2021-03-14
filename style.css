@@ -1,0 +1,18 @@
+body {
+    min-height: 2000px;
+}
+
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #dda0dd;
+
+}
+
+#actifity {
+    background-color: #dda0dd;
+}
+
+section {
+    padding-top: 5rem;
+}
